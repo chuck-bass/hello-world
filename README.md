@@ -2,5 +2,5 @@
 it's a simple project
 
 
-Hello,everybody
+Hello,everyone
 fuck you
